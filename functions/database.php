@@ -3,7 +3,9 @@
  * Copyright (c) 2024. All rights reserved by Woliul Hasan. Fork me on https://github.com/woliul
  */
 
-$servername = "localhost";
+mysqli_report(MYSQLI_REPORT_OFF);
+
+$servername = "127.0.0.1";
 $username = "root";
 $password = "root";
 $dbname = "gypsy";

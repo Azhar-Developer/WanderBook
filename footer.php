@@ -73,7 +73,7 @@
                 <!-- End Currency -->
                 <!--CopyRight-->
                 <p class="copyright">
-                    © 2022 Woliul | All rights reserved.
+                    © 2026 WanderBook | All rights reserved.
                 </p>
                 <!--CopyRight-->
             </div>

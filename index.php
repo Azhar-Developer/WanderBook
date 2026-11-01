@@ -1,11 +1,8 @@
 <?php
 /*
- * Copyright (c) 2024. All rights reserved by Woliul Hasan. Fork me on https://github.com/woliul
+ * Copyright (c) 2026 WanderBook. All rights reserved.
  */
 
-include_once 'function.php';
-include "start.php";
-include 'header.php';
-include 'body.php';
-include 'footer.php';
+header("Location: WanderBook/index.php");
+exit;
 ?>
